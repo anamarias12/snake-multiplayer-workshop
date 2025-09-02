@@ -15,7 +15,7 @@ The server handles all the game logic, and clients can connect by logging in wit
 Start the server:
 python3 server.py.
 Then run one or more clients in separate terminals:
-python3 client.py
+python3 client.py.
 
 ## Requirements
 
