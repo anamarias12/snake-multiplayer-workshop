@@ -19,11 +19,10 @@ python3 client.py
 
 ## Requirements
 
-Python 3.x
-pygame library
+Python 3.x and pygame library.
 
 ## Controls
 
-Arrow keys → Move snake
-M → Toggle client prediction (instant move)
-L → Toggle lag simulation
+Arrow keys → Move snake;
+M → Toggle client prediction (instant move);
+L → Toggle lag simulation.
